@@ -1,0 +1,2 @@
+# Image-Processing
+This repository contains my codes reports for my fifth-semester course of Image Processing. I have used OpenCV in python to do simple image processing tasks such as image enhancement, grayscale conversion, masking, thresholding, High-pass and Low-pass filters in spatial and frequency domain, Fourier transformations etc. These codes are created using Colab Notebooks hence the .ipynb format. I haven't dwelled much into Image detection and Object Recognition right now but will surely be following up on those topics.
